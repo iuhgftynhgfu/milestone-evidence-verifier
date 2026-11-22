@@ -1,0 +1,10 @@
+{
+  "name": "genlayer-ic-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "genlayer-js": "^2.0.0-rc.3",
+    "viem": "^2.58.2"
+  }
+}
